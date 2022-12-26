@@ -3,7 +3,7 @@
   
 ### 📫 How to reach me
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smilyoung@gmail.com)](mailto:smilyoung@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/Velog-09D3AC?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@pearpearb)
+[![Velog Badge](https://img.shields.io/badge/Velog-09D3AC?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@hyeongwoo1279)
 
 <!-- ### 💃🕺 My Experience
 + Ewha Womans University, Content Convergence & Korean Painting (2015/03 ~ 2022/01)
