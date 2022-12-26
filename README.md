@@ -2,7 +2,7 @@
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeongwooIM&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ### 📫 How to reach me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:smilyoung@gmail.com)](mailto:smilyoung@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeongwoo1279@gmail.com)](mailto:hyeongwoo1279@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-09D3AC?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@hyeongwoo1279)
 
 <!-- ### 💃🕺 My Experience
