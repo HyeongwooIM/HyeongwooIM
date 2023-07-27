@@ -12,7 +12,7 @@
 
 ### 🦾 Project
 + 22.11 ~ 22. 12[🏓42gg](https://github.com/42organization/42arcade.gg.client) ✨https://42gg.kr/  | ✨https://softwave.42gg.kr
-+ 22.12 ~ 42_wiki
++ 22.12 ~ [42_wiki]() ✨https://42wekey.com/
 
 
 ### 🛠 Tech Stack
