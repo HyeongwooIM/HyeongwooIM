@@ -6,13 +6,13 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-09D3AC?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@hyeongwoo1279)
 
 <!-- ### 💃🕺 My Experience
-+ Ewha Womans University, Content Convergence & Korean Painting (2015/03 ~ 2022/01)
-+ 42Seoul La Piscine (2021/09/06 ~ 2021/10/01)
-+ 42Seoul Cadet (2021/11/08 ~ ) -->
++ 42Seoul La Piscine (2022/09/06 ~ 2021/10/01)
++ 42Seoul Cadet (2022/07/08 ~ ) -->
 
 ### 🦾 Project
 + 22.11 ~ 22. 12[🏓42gg](https://github.com/42organization/42arcade.gg.client) ✨https://42gg.kr/  | ✨https://softwave.42gg.kr
-+ 22.12 ~ [42_wiki]() ✨https://42wekey.com/
++ 22.12 ~ 23. 05[42_wiki]() ✨https://42wekey.com/
++ 23.10 ~ 23. 12[ft_transcendence] 
 
 
 ### 🛠 Tech Stack
