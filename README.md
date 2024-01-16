@@ -5,8 +5,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyeongwoo1279@gmail.com)](mailto:hyeongwoo1279@gmail.com)
 [![Velog Badge](https://img.shields.io/badge/Velog-09D3AC?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@hyeongwoo1279)
 
-<!-- ### 💃🕺 My Experience
-+ 42Seoul Cadet (2022/07 ~ ) -->
+### 💃🕺 My Experience
++ 42Seoul Cadet (2022/07 ~ )
 
 ### 🦾 Project
 + 22.11 ~ 22. 12[🏓42gg](https://github.com/42organization/42arcade.gg.client) ✨https://42gg.kr/  | ✨https://softwave.42gg.kr
