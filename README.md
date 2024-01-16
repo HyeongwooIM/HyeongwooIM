@@ -6,8 +6,7 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-09D3AC?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@hyeongwoo1279)
 
 <!-- ### 💃🕺 My Experience
-+ 42Seoul La Piscine (2022/09/06 ~ 2021/10/01)
-+ 42Seoul Cadet (2022/07/08 ~ ) -->
++ 42Seoul Cadet (2022/07 ~ ) -->
 
 ### 🦾 Project
 + 22.11 ~ 22. 12[🏓42gg](https://github.com/42organization/42arcade.gg.client) ✨https://42gg.kr/  | ✨https://softwave.42gg.kr
