@@ -6,12 +6,12 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-09D3AC?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@hyeongwoo1279)
 
 ### 💃🕺 My Experience
-+ 42Seoul Cadet (2022/07 ~ )
++ 42Seoul Cadet (2022/07 ~ 2024/01)
 
 ### 🦾 Project
-+ 22.11 ~ 22. 12[🏓42gg](https://github.com/42organization/42arcade.gg.client) ✨https://42gg.kr/  | ✨https://softwave.42gg.kr
-+ 22.12 ~ 23. 05[42_wiki]() ✨https://42wekey.com/
-+ 23.10 ~ 23. 12[ft_transcendence] 
++ 22.11 ~ 22. 12[🏓42gg](https://github.com/42organization/42arcade.gg.client)
++ 22.12 ~ 23. 05[42_wekey](https://github.com/42wekey/42wekey-front) 
++ 23.10 ~ 23. 12[ft_transcendence](https://github.com/tscenping)
 
 
 ### 🛠 Tech Stack
