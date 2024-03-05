@@ -6,6 +6,7 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-09D3AC?style=flat-square&logo=Vimeo&logoColor=white)](https://velog.io/@hyeongwoo1279)
 
 ### 💃🕺 My Experience
++ 42Seoul Member (2024/01 ~)
 + 42Seoul Cadet (2022/07 ~ 2024/01)
 
 ### 🦾 Project
