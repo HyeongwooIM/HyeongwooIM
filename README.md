@@ -10,8 +10,9 @@
 + 42Seoul Cadet (2022/07 ~ 2024/01)
 
 ### 🦾 Project
-+ 24.03 ~ Project Migration - 소켓을 통한 실시간 채팅, 게임 서비스
-+ 23.10 ~ 23. 12 [ft_transcendence](https://github.com/tscenping) - 소켓을 통한 실시간 채팅, 게임 서비스
++ 24.07 ~ 24. 08 [kt-wiz 개선](https://github.com/KT-Kimbu-net) - kt-wiz 홈페이지 개선하기
++ 24.03 ~ 24. 05 [tscenping ver.2](https://github.com/tscenping/tscenping)- 버전 1 마이그레이션
++ 23.10 ~ 23. 12 [tscenping ver.1](https://github.com/tscenping) - 소켓을 통한 실시간 채팅, 게임 서비스
 + 22.12 ~ 23. 05 [42_wekey](https://github.com/42wekey/42wekey-front) - 과제에 대한 후기 및 정보를 작성할 수 있는 서비스
 + 22.11 ~ 22. 12 [🏓42gg](https://github.com/42organization/42arcade.gg.client) - 프라이빗 하게 제공되던 탁구 매칭 서비스를 외부인이 사용할 수 있게 리뉴얼
 
